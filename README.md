@@ -15,7 +15,7 @@ AUTORES :
 
 Objetivos Específicos
 
-- Establecer una relación entre voltaje, aplicado a un conductor y corriente circulando atravez por el mismo.
+- Establecer una relación entre voltaje, aplicado a un conductor y corriente circulando atravez del mismo.
 
 
 **2.MARCO TEÓRICO**
