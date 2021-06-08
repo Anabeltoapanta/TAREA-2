@@ -49,3 +49,4 @@ CAPÍTULO 4
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210608_000221.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210608_000401.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210608_000539.jpg)
+![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210608_000721.jpg)
