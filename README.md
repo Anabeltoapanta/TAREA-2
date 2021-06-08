@@ -40,3 +40,4 @@ CAPÍTULO 3
 CAPÍTULO 4
 
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210607_235226.jpg)
+![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210607_235405.jpg)
