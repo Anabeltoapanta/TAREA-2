@@ -27,6 +27,7 @@ Objetivos Específicos
 **2.MARCO TEÓRICO**
 
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/MARCO%20TEORICO%20CAPITULO%204.jpg)
+![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/Screenshot_20210608-083404_WhatsApp.jpg)
 
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
