@@ -59,3 +59,14 @@ CAPÍTULO 4
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210608_001718.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210608_001823.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210608_001932.jpg)
+
+**4.VIDEO**
+
+**5.CONCLUSIONES**
+Conclusión Capitulo 3 
+En este capítulo se aprendió sobre resistencias sus materiales y como cambian sus valores de acuerdo a varios factores, como calcular estos valores con diversas formulas para cada uno de sus factores implicados, incluyendo como saber el valor de una resistencia con la ayuda de los códigos de colores, sus diferentes tipos que son resistencias fijas y variables y por último también como utilizar el óhmetro o multímetro para medir sus valores físicamente. Cabe destacar también la función que tienen ciertas resistencias como son diodos termistores y varistores que trabajan con respecto a diversos factores como la temperatura los picos altos de voltaje entre otros.
+
+Conclusión Capitulo 4
+En este capitulo la Ley de Ohm es la formula mas importante donde se trabaja únicamente con voltajes amperajes resistencias y potencias, como calcular sus valores para diversos circuitos.
+Adicional el multímetro cumple una regla muy importante al momento de medir estos valores ya que para medir voltajes lo tenemos que realizar de manera paralela al circuito, para la intensidad en cambio se debe hacerlo de manera serial y así mismo para medir resistencia se debe medir el componente directamente sin tener algún dispositivo de suministro de energía conectado. La potencia es la rapidez con la cual se hace el trabajo y esto es debido a la corriente y el voltaje que pasa por el circuito, por otro lado, también tenemos la energía que produce dicha potencia. La eficiencia que nos da un dato que representa la energía desperdiciada y el costo que produce ciertos materiales juntos con sus valores de potencia y el ambiente que también tiene un papel muy importante.
+
