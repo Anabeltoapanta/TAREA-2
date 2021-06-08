@@ -23,7 +23,7 @@ Objetivos Específicos
 
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-CAPÍTULO 4 
+CAPÍTULO 3
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210607_233518.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210607_233713.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210607_233826.jpg)
@@ -35,3 +35,8 @@ CAPÍTULO 4
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210607_234742.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210607_234911.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210607_235021.jpg)
+
+
+CAPÍTULO 4
+
+![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210607_235226.jpg)
