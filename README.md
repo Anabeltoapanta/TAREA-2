@@ -57,3 +57,4 @@ CAPÍTULO 4
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210608_001348.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210608_001456.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210608_001718.jpg)
+![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/20210608_001823.jpg)
