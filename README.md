@@ -18,4 +18,5 @@ Objetivos Específicos
 
 
 **2.MARCO TEÓRICO**
-![](
+![](https://github.com/Anabeltoapanta/TAREA-2/blob/main/MARCO%20TEORICO%20CAPITULO%204.jpg)
+
