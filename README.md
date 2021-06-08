@@ -11,6 +11,13 @@ AUTORES :
 
 **1.OBJETIVOS**
 
+Objetivo General
+
+Conocer las funcionalidades que tienen las resistencias eléctricas como se comportan y su importancia en el ámbito de la electrónica, también como están fabricados y como utilizar diversas fórmulas para calcular sus valores y así interpretar su código de colores.
+
+Conocer los principales conceptos de un circuito que son la intensidad la resistencia y el voltaje que juntos hace la ley de ohm, como calcular sus valores, la potencia que se produce gracias al paso de la corriente junto con la energía y el costo que está produce
+y además utilizar de manera adecuada el multimetro para medir dichos valores, como calcular de acuerdo a estos su rango de funcionamiento y como podemos evitar que nuestro componentes se convierta en inservibles o peor aún un corto circuito.
+
 
 
 Objetivos Específicos
