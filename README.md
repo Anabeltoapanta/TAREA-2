@@ -19,6 +19,8 @@ Objetivos Específicos
 
 - Establecer una relación entre voltaje, aplicado a un conductor y corriente circulando atravez del mismo.
 
+- Analizar la variación de la resistencia eléctrica en función a la longitud y el aréa del alambre conductor.
+
 - Calcular la potencia eléctrica de una elemento conductor.
 
 
