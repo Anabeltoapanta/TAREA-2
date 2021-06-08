@@ -76,3 +76,7 @@ Conclusión Capitulo 4
 En este capitulo la Ley de Ohm es la formula mas importante donde se trabaja únicamente con voltajes amperajes resistencias y potencias, como calcular sus valores para diversos circuitos.
 Adicional el multímetro cumple una regla muy importante al momento de medir estos valores ya que para medir voltajes lo tenemos que realizar de manera paralela al circuito, para la intensidad en cambio se debe hacerlo de manera serial y así mismo para medir resistencia se debe medir el componente directamente sin tener algún dispositivo de suministro de energía conectado. La potencia es la rapidez con la cual se hace el trabajo y esto es debido a la corriente y el voltaje que pasa por el circuito, por otro lado, también tenemos la energía que produce dicha potencia. La eficiencia que nos da un dato que representa la energía desperdiciada y el costo que produce ciertos materiales juntos con sus valores de potencia y el ambiente que también tiene un papel muy importante.
 
+
+**6.BIBLIOGRAFÍA**
+
+Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
