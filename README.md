@@ -15,6 +15,8 @@ AUTORES :
 
 Objetivos Específicos
 
+- Introducir el concepto de resistencia para establecer la Ley de Ohm. 
+
 - Establecer una relación entre voltaje, aplicado a un conductor y corriente circulando atravez del mismo.
 
 - Calcular la potencia eléctrica de una elemento conductor.
